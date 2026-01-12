@@ -75,8 +75,8 @@ I focus on **clean code, strong fundamentals, and real-world applicability**.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: (add when ready)
+- GitHub: https://github.com/Snehily21  
+- LinkedIn: https://www.linkedin.com/in/sy21
 
 ---
 
