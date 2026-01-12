@@ -1,48 +1,26 @@
-🚀 About Me
-🎓 MCA student at Institute of Engineering and Technology (IET), Lucknow
-🤖 Passionate about Machine Learning, Deep Learning, and Applied AI
-🧠 Strong interest in Retrieval-Augmented Generation (RAG) systems
-🐍 Python-first developer with clean, modular coding practices
-📊 Focused on data-driven problem solving
-💡 Always learning, experimenting, and building real-world AI systems
-🧠 Core Skills
-🔹 Machine Learning
-Supervised & Unsupervised Learning
-Regression, Classification, Clustering
-Feature Engineering & Model Evaluation
-Bias–Variance Tradeoff
-🔹 Deep Learning
-Neural Networks (ANN, CNN, RNN basics)
-Transfer Learning
-Model Optimization & Regularization
-Frameworks: TensorFlow / PyTorch
-🔹 Generative AI & RAG
-Retrieval-Augmented Generation (RAG) pipelines
-Semantic Search & Vector Databases
-Prompt Engineering
-LLM Integration & Context Optimization
-🛠️ Tools & Technologies
-� � � � � � � �
-📌 Featured Projects
-🔹 Retrieval-Augmented Generation (RAG) System
-Built end-to-end RAG pipeline integrating LLMs + semantic search
-Reduced hallucinations by grounding responses in external knowledge
-Optimized trade-offs between accuracy, latency, and scalability
-🔹 Machine Learning Pipelines
-Implemented complete ML workflows:
-Data → Preprocessing → Training → Evaluation → Optimization
-Focus on production-oriented, reusable code
-📈 GitHub Stats
-�
-�
-🔁 Replace YOUR_USERNAME with your actual GitHub username
-📚 Currently Learning
-Advanced RAG architectures
-Model deployment & MLOps basics
-Scalable AI system design
-Interview-oriented ML & DL concepts
-📫 Let’s Connect
-💼 LinkedIn: (add your link)
-🧑‍💻 GitHub: (this profile)
-📧 Email: (optional)
-⭐ If you like my work, consider giving a star to my repositories!
+# 👋 Hi there, I am Snehil Yadav
+
+## 🎓 About Me
+I am pursuing MCA from Institute of Engineering and Technology (IET), Lucknow.
+I am interested in Machine Learning, Deep Learning and AI.
+
+## 🧠 Skills
+- Python
+- Machine Learning
+- Deep Learning
+- RAG
+- Data Analysis
+
+## 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![ML](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![DL](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+## 📫 Contact
+- GitHub: https://github.com/YOUR_USERNAME
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
